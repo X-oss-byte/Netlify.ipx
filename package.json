@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@netlify/functions": "^0.7.2",
-    "ipx": "^0.7.0",
+    "ipx": "^2.0.2",
     "mkdirp": "^1.0.4"
   },
   "devDependencies": {
