@@ -30,7 +30,7 @@
   "dependencies": {
     "@netlify/functions": "^0.7.2",
     "ipx": "^0.7.0",
-    "mkdirp": "^1.0.4"
+    "mkdirp": "^3.0.1"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config-typescript": "^6.0.1",
