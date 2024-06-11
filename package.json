@@ -28,17 +28,17 @@
     "dev": "cd example && netlify dev"
   },
   "dependencies": {
-    "@netlify/functions": "^0.7.2",
-    "ipx": "^0.7.0",
+    "@netlify/functions": "^0.11.1",
+    "ipx": "^0.9.11",
     "mkdirp": "^1.0.4"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config-typescript": "^6.0.1",
-    "eslint": "^7.29.0",
-    "jiti": "^1.10.1",
-    "netlify-cli": "^4.0.5",
+    "eslint": "^7.32.0",
+    "jiti": "^1.21.6",
+    "netlify-cli": "^4.4.4",
     "netlify-plugin-ipx": "link:.",
-    "siroc": "^0.11.1",
+    "siroc": "^0.16.0",
     "standard-version": "^9.3.0"
   }
 }
