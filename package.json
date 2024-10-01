@@ -28,7 +28,7 @@
     "dev": "cd example && netlify dev"
   },
   "dependencies": {
-    "@netlify/functions": "^0.7.2",
+    "@netlify/functions": "^2.8.2",
     "ipx": "^0.7.0",
     "mkdirp": "^1.0.4"
   },
