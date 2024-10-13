@@ -36,7 +36,7 @@
     "@nuxtjs/eslint-config-typescript": "^6.0.1",
     "eslint": "^7.29.0",
     "jiti": "^1.10.1",
-    "netlify-cli": "^4.0.5",
+    "netlify-cli": "^17.37.0",
     "netlify-plugin-ipx": "link:.",
     "siroc": "^0.11.1",
     "standard-version": "^9.3.0"
